@@ -1,6 +1,6 @@
 # linux-commands
 
--- tar -xvzf community_images.tar.gz
+- tar -xvzf community_images.tar.gz
 
 To explain a little further, tar collected all the files into one package, community_images.tar. The gzip program applied compression, hence the gz extension. So the command does a couple things:
 
