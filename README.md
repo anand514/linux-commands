@@ -1,6 +1,6 @@
 # linux-commands
 
-- tar -xvzf community_images.tar.gz
+### tar -xvzf community_images.tar.gz
 
 To explain a little further, tar collected all the files into one package, community_images.tar. The gzip program applied compression, hence the gz extension. So the command does a couple things:
 
@@ -11,5 +11,8 @@ To explain a little further, tar collected all the files into one package, commu
     
    
    
-- sudo apt-get update or sudo apt-get install
-to 
+### sudo apt-get update or sudo apt-get install
+
+### $ sudo apt-get install openjdk-8-jre
+
+- The openjdk-8-jre package contains just the Java Runtime Environment. If you want to develop Java programs then please install the openjdk-8-jdk package.
