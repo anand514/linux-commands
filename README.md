@@ -19,4 +19,6 @@ To explain a little further, tar collected all the files into one package, commu
 
 ### sudo apt install chromium-browser
 
--   to install the chromium browser on the ubunut
+-   to install the chromium browser on the ubuntu
+### sudo apt-get install maven
+- to install the maven on the ubuntu
