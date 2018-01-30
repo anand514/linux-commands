@@ -16,3 +16,7 @@ To explain a little further, tar collected all the files into one package, commu
 ### $ sudo apt-get install openjdk-8-jre
 
 - The openjdk-8-jre package contains just the Java Runtime Environment. If you want to develop Java programs then please install the openjdk-8-jdk package.
+
+### sudo apt install chromium-browser
+
+-   to install the chromium browser on the ubunut
