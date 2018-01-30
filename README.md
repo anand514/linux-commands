@@ -22,3 +22,5 @@ To explain a little further, tar collected all the files into one package, commu
 -   to install the chromium browser on the ubuntu
 ### sudo apt-get install maven
 - to install the maven on the ubuntu
+### sudo apt-get install default-jdk
+-   to install open jdk in ubuntu
