@@ -26,3 +26,10 @@ To explain a little further, tar collected all the files into one package, commu
 -   to install open jdk in ubuntu
 ### jdk installation path
 -   /usr/lib/jvm/java-8-openjdk-amd64
+### install mysql server 
+-   sudo apt-get install mysql-server
+-   https://linode.com/docs/databases/mysql/install-mysql-on-ubuntu-14-04/
+#### To log in to MySQL as the root user:
+-   mysql -u root -p
+-   prompted for password when you type above command , enter the password that you entered while installing my sql server
+-   you will be taken to mysql client terminal
